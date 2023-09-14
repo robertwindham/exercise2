@@ -11,4 +11,11 @@ Link: http://robertwindham.github.io/exercise2
 
 
 
+References:
+
+Dalldorf, G., and C. Zall. 1930. Tooth Growth in
+   Experimental Scurvy. The Journal of 
+   experimental medicine 52:57–64.
+
+
 
