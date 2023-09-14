@@ -1,5 +1,5 @@
 ---
-title: "Exercise_1"
+title: "Exercise_1&2"
 author: "Robert Windham"
 date: " `r Sys.Date()`"
 output: 
